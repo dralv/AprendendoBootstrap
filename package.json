@@ -1,0 +1,27 @@
+{
+  "name": "projeto-better",
+  "version": "1.0.0",
+  "description": "Projeto para praticar bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dralv/AprendendoBootstrap.git"
+  },
+  "keywords": [
+    "Bootstrap"
+  ],
+  "author": "Alvaro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dralv/AprendendoBootstrap/issues"
+  },
+  "homepage": "https://github.com/dralv/AprendendoBootstrap#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.2",
+    "jquery": "^3.3.1",
+    "sass": "^1.57.1"
+  }
+}
